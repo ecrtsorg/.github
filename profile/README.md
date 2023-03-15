@@ -13,6 +13,8 @@ Subscribe:
  * Send an empty email to ecrts-industrial-challenge+subscribe at
    googlegroups.com (no google account required following this method).
 
+# Current Challenge
+
 More information about the modelling platform can be found at the following links: 
 
 * GEM5+ATP modelling tutorial at ISCA 2020:
