@@ -29,5 +29,6 @@ https://github.com/ARM-software/ATP-Engine/blob/master/README.md
  
 https://github.com/ARM-software/ATP-Engine/blob/master/IHI0092A_amba_atp_engine_guide.pdf
 
-* MPAM-Style cache partitioning with ATP-Engine and gem5
+* MPAM-Style cache partitioning with ATP-Engine and gem5:
+
 https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/gem5-cache-partitioning
