@@ -13,7 +13,7 @@ Subscribe:
  * Send an empty email to ecrts-industrial-challenge+subscribe at
    googlegroups.com (no google account required following this method).
 
-# Current Challenge
+# Industrial Challenge 2022: A High-Performance Real-Time Case Study on Arm
 
 More information about the modelling platform can be found at the following links: 
 
@@ -32,3 +32,13 @@ https://github.com/ARM-software/ATP-Engine/blob/master/IHI0092A_amba_atp_engine_
 * MPAM-Style cache partitioning with ATP-Engine and gem5:
 
 https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/gem5-cache-partitioning
+
+# Industrial challenge 2025: Embedded reconfiguration of TSN
+
+* Companion page (PDF):
+
+https://hal.science/hal-04630862
+
+* Dataset:
+
+https://github.com/ecrtsorg/challenge2025-tsn
