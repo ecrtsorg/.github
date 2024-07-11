@@ -13,6 +13,9 @@ Subscribe:
  * Send an empty email to ecrts-industrial-challenge+subscribe at
    googlegroups.com (no google account required following this method).
 
+### Industrial Challenge Slides
+https://github.com/ecrtsorg/ecrts-IC-slides
+
 # Industrial Challenge 2022: A High-Performance Real-Time Case Study on Arm
 
 More information about the modelling platform can be found at the following links: 
