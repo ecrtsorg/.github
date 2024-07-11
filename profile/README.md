@@ -1,6 +1,6 @@
 # Euromicro Conference on Real-Time Systems
 
-Repositories (mostly) related to the Industrial Challenge of the
+This hosts the repositories related to the Industrial Challenge of the
 [Euromicro Conference on Real-Time Systems](www.ecrts.org)
 
 ## Industrial Challenge at ECRTS
@@ -17,28 +17,22 @@ Subscribe:
 
 More information about the modelling platform can be found at the following links: 
 
-* GEM5+ATP modelling tutorial at ISCA 2020:
- 
-https://www.gem5.org/2020/06/01/heterogeneous-systems.html
- 
-* ATP Engine open source release information
- 
-https://github.com/ARM-software/ATP-Engine/blob/master/README.md
- 
-* Full ATP Engine user guide:
- 
-https://github.com/ARM-software/ATP-Engine/blob/master/IHI0092A_amba_atp_engine_guide.pdf
+* GEM5+ATP modelling tutorial at ISCA 2020: https://www.gem5.org/2020/06/01/heterogeneous-systems.html
+* ATP Engine open source release information: https://github.com/ARM-software/ATP-Engine/blob/master/README.md
+* Full ATP Engine user guide: https://github.com/ARM-software/ATP-Engine/blob/master/IHI0092A_amba_atp_engine_guide.pdf
+* MPAM-Style cache partitioning with ATP-Engine and gem5: https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/gem5-cache-partitioning
 
-* MPAM-Style cache partitioning with ATP-Engine and gem5:
+Solution proposals for the challenge can be found here:
+* https://github.com/ecrtsorg/challenge2022-solutions
 
-https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/gem5-cache-partitioning
+The following repositories are related to this challenge:
+* https://github.com/ecrtsorg/ATP-Engine
+* https://github.com/ecrtsorg/gem5
+* https://github.com/ecrtsorg/ov2slam
+* https://github.com/ecrtsorg/deep-head-pose
+* https://github.com/ecrtsorg/deep-head-pose-lite
 
 # Industrial challenge 2025: Embedded reconfiguration of TSN
 
-* Companion page (PDF):
-
-https://hal.science/hal-04630862
-
-* Dataset:
-
-https://github.com/ecrtsorg/challenge2025-tsn
+* Companion page (PDF): https://hal.science/hal-04630862
+* Dataset: https://github.com/ecrtsorg/challenge2025-tsn
