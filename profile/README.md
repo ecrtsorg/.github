@@ -13,6 +13,9 @@ Subscribe:
  * Send an empty email to ecrts-industrial-challenge+subscribe at
    googlegroups.com (no google account required following this method).
 
+### Industrial Challenge Solutions
+https://github.com/ecrtsorg/ecrts-IC-solutions
+
 ### Industrial Challenge Slides
 https://github.com/ecrtsorg/ecrts-IC-slides
 
